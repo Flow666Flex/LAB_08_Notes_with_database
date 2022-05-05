@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LAB_08_Notes_with_database</string>
+    <string name="Name">app_name</string>
+    <string name="lab_new">lab</string>
+    <string name="lab_save">Save</string>
+    <string name="lab_delete">Delete</string>
+</resources>
